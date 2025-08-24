@@ -18,5 +18,6 @@ public class StateDetails {
 		l.hindiLanguage();
 		s.southIndia();
 		s.northIndia();
+		l.teluguLanguage();
 	}
 }
